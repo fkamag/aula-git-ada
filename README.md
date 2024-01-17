@@ -7,4 +7,4 @@
 - git add .
 - git commit
 - entrar no github e criar um novo repositório
-- git remote add origin <url>
+- git remote add origin < url >
